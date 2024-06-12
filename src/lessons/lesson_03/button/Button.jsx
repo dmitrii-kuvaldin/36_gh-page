@@ -3,7 +3,7 @@ function Button() {
   const sendButton = 'Send data';
   const getButton = 'Get data';
   // от значения в этой переменной должен меняться цвет
-  const isGetButton = false;
+  const isGetButton = true;
 
   // * запись тернарного оператора:
   // { выражение ? если выражение верное : если выражение ложное }
