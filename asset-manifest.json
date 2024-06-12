@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/36_gh-page/static/css/main.92efabba.css",
-    "main.js": "/36_gh-page/static/js/main.ad64e9ca.js",
+    "main.js": "/36_gh-page/static/js/main.8d6fab5f.js",
     "static/media/future-supercars.webp": "/36_gh-page/static/media/future-supercars.6e7353678d7a3a34b631.webp",
     "index.html": "/36_gh-page/index.html",
     "main.92efabba.css.map": "/36_gh-page/static/css/main.92efabba.css.map",
-    "main.ad64e9ca.js.map": "/36_gh-page/static/js/main.ad64e9ca.js.map"
+    "main.8d6fab5f.js.map": "/36_gh-page/static/js/main.8d6fab5f.js.map"
   },
   "entrypoints": [
     "static/css/main.92efabba.css",
-    "static/js/main.ad64e9ca.js"
+    "static/js/main.8d6fab5f.js"
   ]
 }
