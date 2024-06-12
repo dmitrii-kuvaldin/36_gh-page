@@ -9,7 +9,7 @@ function Lesson03() {
     <main className="App">
       <h1>Hello, React!</h1>
       <img width={200} src={car} alt="" />
-      <img width={150} src={'36_gh-page/images/car-race.jpeg'} alt="" />
+      <img width={150} src={'images/car-race.jpeg'} alt="" />
       <p>first react lesson</p>
       <MyButton />
       <ParentComponent>
